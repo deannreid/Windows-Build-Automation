@@ -1,0 +1,11 @@
+python3
+7zip
+sysinternals
+vscode
+malcat
+virustotaluploader
+housecall
+hitmanpro
+crowdinspect
+glasswire
+procexp
